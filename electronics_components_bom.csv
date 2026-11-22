@@ -1,0 +1,22 @@
+﻿Category,Item No.,Item,Specification / Description,Quantity,Estimated Price (PKR),Suggested Supplier,Supplier Link
+Electronic Components,1,555 Timer IC,"NE555P, DIP-8",1,30,Pak Modules,https://pakmodules.com/
+Electronic Components,2,Decade Counter IC,"CD4017, DIP-16",1,65,Electronic Store,https://electronicstore.pk/
+Electronic Components,3,Red LEDs,5mm through-hole,10,30,Electronation,https://electronation.pk/
+Electronic Components,4,Orange LEDs,5mm through-hole,Optional,3 each,Electronation,https://electronation.pk/
+Electronic Components,5,Yellow LEDs,5mm through-hole,Optional,3 each,Electronation,https://electronation.pk/
+Electronic Components,6,Green LEDs,5mm through-hole,Optional,3 each,Electronation,https://electronation.pk/
+Electronic Components,7,Blue LEDs,5mm through-hole,Optional,3 each,Electronation,https://electronation.pk/
+Electronic Components,8,Resistor,"1 kΩ, ¼ W",1,2–5,Electronation,https://electronation.pk/
+Electronic Components,9,Resistor,"470 Ω, ¼ W",1,2–5,Circuit.pk,https://circuit.pk/
+Electronic Components,10,Potentiometer,50 kΩ,1,10,Electronation,https://electronation.pk/
+Electronic Components,11,Electrolytic capacitor,1 µF,1,5–10*,Electronic Store,https://electronicstore.pk/
+Electronic Components,12,Ceramic capacitor,10 nF,1,5–10*,Electronic Store,https://electronicstore.pk/
+Electronic Components,13,2-pin connector,PCB power connector,1,10–20*,Electronic Store,https://electronicstore.pk/
+Electronic Components,14,1-pin header,Debug output,1,5–10*,Electronic Store,https://electronicstore.pk/
+Additional Items & Supplies,1,Power supply,Regulated 5V USB,1,250–400,Electronic Store,https://electronicstore.pk/
+Additional Items & Supplies,2,PCB,Custom-designed PCB,1,Not yet quoted,JLCPCB,https://jlcpcb.com/
+Additional Items & Supplies,3,IC socket,8-pin DIP,1,10–15,Electronic Store,https://electronicstore.pk/
+Additional Items & Supplies,4,IC socket,16-pin DIP,1,15–25,Electronic Store,https://electronicstore.pk/
+Additional Items & Supplies,5,Soldering wire,Electronics solder,As needed,150–250,Pak Modules,https://pakmodules.com/
+Additional Items & Supplies,6,Jumper wires,Testing/debugging,A few,50–100,Electronic Store,https://electronicstore.pk/
+Funding Summary,,,Total Funding Needed (incl. shipping),,1000–2000 PKR (3.61–7.22 USD),,
