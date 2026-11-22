@@ -30,3 +30,35 @@ the pcb routing (idk whats this called yet..)
 an easter egg :
 
 <img width="63" height="57" alt="image" src="https://github.com/user-attachments/assets/c61ea111-c9c5-44f3-8a72-9805b9095dbc" />
+
+# bom
+
+
+| #  | Component              | Specification       | Qty.     | Price (PKR) | Purchase link                                                                                        |
+| -- | ---------------------- | ------------------- | -------- | ----------- | ---------------------------------------------------------------------------------------------------- |
+| 1  | 555 Timer IC           | NE555P, DIP-8       | 1        | 30          | [Pak Modules](https://pakmodules.com/?utm_source=chatgpt.com)                                        |
+| 2  | Decade Counter IC      | CD4017, DIP-16      | 1        | 65          | [Electronic Store](https://electronicstore.pk/product/cd4017-ic-in-pakistan/?utm_source=chatgpt.com) |
+| 3  | Red LEDs               | 5mm through-hole    | 10       | 30          | [Electronation](https://electronation.pk/product-category/common-components/?utm_source=chatgpt.com) |
+| 4  | Orange LEDs            | 5mm through-hole    | Optional | 3 each      | [Electronation](https://electronation.pk/product-category/common-components/?utm_source=chatgpt.com) |
+| 5  | Yellow LEDs            | 5mm through-hole    | Optional | 3 each      | [Electronation](https://electronation.pk/product-category/common-components/?utm_source=chatgpt.com) |
+| 6  | Green LEDs             | 5mm through-hole    | Optional | 3 each      | [Electronation](https://electronation.pk/product-category/common-components/?utm_source=chatgpt.com) |
+| 7  | Blue LEDs              | 5mm through-hole    | Optional | 3 each      | [Electronation](https://electronation.pk/product-category/common-components/?utm_source=chatgpt.com) |
+| 8  | Resistor               | 1 kΩ, ¼ W           | 1        | 2–5         | [Electronation](https://electronation.pk/product-category/common-components/?utm_source=chatgpt.com) |
+| 9  | Resistor               | 470 Ω, ¼ W          | 1        | 2–5         | [Circuit.pk](https://circuit.pk/category/resistor?utm_source=chatgpt.com)                            |
+| 10 | Potentiometer          | 50 kΩ               | 1        | 10          | [Electronation](https://electronation.pk/product-category/common-components/?utm_source=chatgpt.com) |
+| 11 | Electrolytic capacitor | 1 µF                | 1        | 5–10\*      | [Electronic Store](https://electronicstore.pk/product-category/capacitor/?utm_source=chatgpt.com)    |
+| 12 | Ceramic capacitor      | 10 nF               | 1        | 5–10\*      | [Electronic Store](https://electronicstore.pk/product-category/capacitor/?utm_source=chatgpt.com)    |
+| 13 | 2-pin connector        | PCB power connector | 1        | 10–20\*     | [Electronic Store](https://electronicstore.pk/product-category/connector/?utm_source=chatgpt.com)    |
+| 14 | 1-pin header           | Debug output        | 1        | 5–10\*      | [Electronic Store](https://electronicstore.pk/product-category/connector/?utm_source=chatgpt.com)    |
+
+
+| # | Item           | Specification       | Qty.      | Estimated price (PKR) | Purchase link                                                                                                       |
+| - | -------------- | ------------------- | --------- | --------------------- | ------------------------------------------------------------------------------------------------------------------- |
+| 1 | Power supply   | Regulated 5V USB    | 1         | 250–400               | [Electronic Store](https://electronicstore.pk/product-category/battery-charger-powersupply/?utm_source=chatgpt.com) |
+| 2 | PCB            | Custom-designed PCB | 1         | Not yet quoted        | [JLCPCB](https://jlcpcb.com/?utm_source=chatgpt.com)                                                                |
+| 3 | IC socket      | 8-pin DIP           | 1         | 10–15                 | [Electronic Store](https://electronicstore.pk/product-category/ic-socket-base/?utm_source=chatgpt.com)              |
+| 4 | IC socket      | 16-pin DIP          | 1         | 15–25                 | [Electronic Store](https://electronicstore.pk/product-category/ic-socket-base/?utm_source=chatgpt.com)              |
+| 5 | Soldering wire | Electronics solder  | As needed | 150–250               | [Pak Modules](https://pakmodules.com/?utm_source=chatgpt.com)                                                       |
+| 6 | Jumper wires   | Testing/debugging   | A few     | 50–100                | [Electronic Store](https://electronicstore.pk/product-category/jumper-wire-crimshell/?utm_source=chatgpt.com)       |
+
+funding needed : 1000-2000 rs or (3.61 US Dollars to 7.22 US Dollars to cover the shipping costs and everything)
