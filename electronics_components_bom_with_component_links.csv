@@ -1,0 +1,22 @@
+﻿Category,Item No.,Item,Specification / Description,Quantity,Estimated Price (PKR),Suggested Supplier,Component Link,Link Type / Notes
+Electronic Components,1,555 Timer IC,"NE555P, DIP-8",1,30,Multan Electronics,https://multanelectronics.com/shop/ne555-555-timer-ic/,Product page
+Electronic Components,2,Decade Counter IC,"CD4017, DIP-16",1,65,Multan Electronics,https://multanelectronics.com/shop/cd-4017-ic-decade-counter/,"Product page; listing shows CD4017, confirm DIP-16 variant"
+Electronic Components,3,Red LEDs,5mm through-hole,10,30,Electronation,https://electronation.pk/?s=5mm+red+LED&post_type=product,Store search
+Electronic Components,4,Orange LEDs,5mm through-hole,Optional,3 each,Electronation,https://electronation.pk/?s=5mm+orange+LED&post_type=product,Store search
+Electronic Components,5,Yellow LEDs,5mm through-hole,Optional,3 each,Electronation,https://electronation.pk/?s=5mm+yellow+LED&post_type=product,Store search
+Electronic Components,6,Green LEDs,5mm through-hole,Optional,3 each,Electronation,https://electronation.pk/?s=5mm+green+LED&post_type=product,Store search
+Electronic Components,7,Blue LEDs,5mm through-hole,Optional,3 each,Electronation,https://electronation.pk/?s=5mm+blue+LED&post_type=product,Store search
+Electronic Components,8,Resistor,"1 kΩ, ¼ W",1,2–5,Multan Electronics,https://multanelectronics.com/shop/quarter-1-4-watt-resistors-general-purpose-resistors/,Product page; choose 1 kΩ
+Electronic Components,9,Resistor,"470 Ω, ¼ W",1,2–5,Multan Electronics,https://multanelectronics.com/shop/quarter-1-4-watt-resistors-general-purpose-resistors/,Product page; choose 470 Ω
+Electronic Components,10,Potentiometer,50 kΩ,1,10,PakCircuit,https://pakcircuit.com/?s=50K+Potentiometer&post_type=product,Store search
+Electronic Components,11,Electrolytic capacitor,1 µF,1,5–10*,Multan Electronics,https://multanelectronics.com/shop/electrolytic-capacitors-of-different-values-in-pakistan/,Product page; choose 1 µF
+Electronic Components,12,Ceramic capacitor,10 nF (103),1,5–10*,Multan Electronics,https://multanelectronics.com/?s=10nF%20103%20ceramic%20capacitor&post_type=product,Store search
+Electronic Components,13,2-pin connector,PCB power connector,1,10–20*,Multan Electronics,https://multanelectronics.com/shop/hd515-bent-screw-terminal-pcb-mount-right-angle-connector/,Product page; confirm pitch/orientation
+Electronic Components,14,1-pin header,Debug output,1,5–10*,PakCircuit,https://pakcircuit.com/?s=single+pin+male+header&post_type=product,Store search
+Additional Items & Supplies,1,Power supply,Regulated 5V USB,1,250–400,Multan Electronics,https://multanelectronics.com/?s=5V%20USB%20power%20supply%20adapter&post_type=product,Store search
+Additional Items & Supplies,2,PCB,Custom-designed PCB,1,Not yet quoted,JLCPCB,https://jlcpcb.com/quote/pcb,PCB quotation/order page
+Additional Items & Supplies,3,IC socket,8-pin DIP,1,10–15,Multan Electronics,https://multanelectronics.com/shop/dip-ic-sockets-adapter-solder-type-socket-8-14-16-20-28-40-pins/,Product page; select 8-pin
+Additional Items & Supplies,4,IC socket,16-pin DIP,1,15–25,Electronation,https://electronation.pk/?s=16+pin+DIP+IC+socket&post_type=product,Store search
+Additional Items & Supplies,5,Soldering wire,Electronics solder,As needed,150–250,Multan Electronics,https://multanelectronics.com/shop/0-8mm-tin-lead-soldering-wire-50gm/,Product page
+Additional Items & Supplies,6,Jumper wires,Testing/debugging,A few,50–100,PakCircuit,https://pakcircuit.com/?s=jumper+wires&post_type=product,Store search
+Funding Summary,,,Total Funding Needed (incl. shipping),,1000–2000 PKR (3.61–7.22 USD),,,
